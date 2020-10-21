@@ -53,6 +53,7 @@
         </dependency>
 
         <!--Eureka-->
+        <!--新版Eureka集成Ribbon-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
